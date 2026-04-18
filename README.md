@@ -1,4 +1,4 @@
-# PRODIGY_TrackCode_TaskNumber1
+# PRODIGY_DataScience_TaskNumber1
 
 
 ## 📊 Task 01 - Data Visualization
