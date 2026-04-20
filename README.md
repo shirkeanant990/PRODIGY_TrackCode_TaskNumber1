@@ -1,30 +1,32 @@
 # PRODIGY_DataScience_TaskNumber1
 
 
-## 📊 Task 01 - Data Visualization
+## Task 01 - Data Visualization
 
 This project is part of my Data Science Internship.
 
-### 🔹 Objective :
-Create a bar chart to visualize population growth data.
+### Objective :
+Create a Bar chart and Histplot to visualize World Bank population growth data.
 
-### 🔹 Dataset :
+###  Dataset :
 World Bank Population Growth Dataset
 
-### 🔹 Tools Used :
+###  Tools Used :
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-### 🔹 What I Did :
+###  What I Did :
 - Loaded and cleaned dataset
 - Selected relevant columns
 - Created a bar chart of top 10 countries with highest population growth
+- Created a Histplot to show the distribution of population growth rate
 
-### 🔹 Output :
-Bar chart showing population growth comparison
+### Output :
+- Bar chart showing population growth comparison.
+- Histplot showing Distribution of population growth rate
 
-### 🔹 Learning Outcome :
+### Learning Outcome :
 - Understood categorical vs continuous variables
 - Learned data visualization techniques
