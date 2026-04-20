@@ -30,3 +30,6 @@ World Bank Population Growth Dataset
 ### Learning Outcome :
 - Understood categorical vs continuous variables
 - Learned data visualization techniques
+
+### Author
+# Anant Shirke
